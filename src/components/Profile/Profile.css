@@ -1,0 +1,12 @@
+.postMetaBar{
+	display: block;
+}
+
+.label{
+	background-color: red;	
+	color: green;
+}
+
+.avatar{
+	background-color: blue;
+}

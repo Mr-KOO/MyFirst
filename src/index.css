@@ -1,0 +1,17 @@
+:root {
+    --x-height-multiplier: 0;
+    --baseline-multiplier: 0;
+}
+
+html {
+	overflow-x: hidden;
+	overflow-y: scroll;
+	font-family: sans-serif;
+	display: block;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
